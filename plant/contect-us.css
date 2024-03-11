@@ -1,0 +1,138 @@
+.plant-1-icon {
+  position: absolute;
+  top: -6px;
+  left: -53px;
+  width: 1509.4px;
+  height: 1024px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.facebookllhub {
+  position: absolute;
+  top: 863px;
+  left: 235px;
+  font-size: var(--font-size-13xl);
+}
+.icon {
+  position: absolute;
+  top: 306px;
+  left: 149px;
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.leak-lounge12 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.leak-lounge11 {
+  position: absolute;
+  top: 60px;
+  left: 162px;
+  font-size: var(--font-size-13xl);
+}
+.contect-us-child,
+.contect-us-item {
+  position: absolute;
+  top: 28px;
+  left: 30px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.contect-us-item {
+  top: 34px;
+  left: 1342px;
+  width: 67px;
+  height: 66px;
+}
+.cnontect-us {
+  position: absolute;
+  top: 174px;
+  left: 149px;
+  font-size: var(--font-size-17xl);
+  color: #1c1d1b;
+}
+.contect-us-inner {
+  position: absolute;
+  top: 239.5px;
+  left: 158.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 271px;
+  height: 1px;
+}
+.leak-loung-plant {
+  margin: 0;
+}
+.leak-loung-plant-container {
+  position: absolute;
+  top: 315px;
+  left: 241px;
+  font-size: var(--font-size-xl);
+}
+.icon1 {
+  position: absolute;
+  top: 464px;
+  left: 145px;
+  width: 54px;
+  height: 69px;
+  object-fit: cover;
+}
+.gmail-juliahrabworkgmailcom1 {
+  position: absolute;
+  top: 709px;
+  left: 527px;
+  display: none;
+  font-family: var(--font-hk-grotesk);
+}
+.icon2,
+.juliahrabworkgmailcom {
+  position: absolute;
+  top: 490px;
+  left: 227px;
+}
+.icon2 {
+  top: 599px;
+  left: 149px;
+  width: 53px;
+  height: 47px;
+  object-fit: cover;
+}
+.div22,
+.icon3 {
+  position: absolute;
+  top: 615px;
+  left: 235px;
+}
+.icon3 {
+  top: 712px;
+  left: 149px;
+  width: 69px;
+  height: 78px;
+  object-fit: cover;
+}
+.img-1-icon,
+.julidisignco {
+  position: absolute;
+  top: 742px;
+  left: 259px;
+}
+.img-1-icon {
+  top: 843px;
+  left: 146px;
+  width: 75px;
+  height: 60px;
+  object-fit: cover;
+}
+.contect-us {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-krona-one);
+}

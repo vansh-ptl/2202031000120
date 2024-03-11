@@ -1,0 +1,57 @@
+.plant-2-icon,
+.plant-4-icon {
+  position: absolute;
+  top: -48px;
+  left: 0;
+  width: 1509.4px;
+  height: 1024px;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.plant-4-icon {
+  border-radius: 18px;
+  width: 1509px;
+}
+.please-go-back,
+.you-are-lost {
+  position: absolute;
+  top: 464px;
+  left: 410px;
+}
+.you-are-lost {
+  top: 376px;
+  left: 125px;
+  color: var(--color-gray-400);
+}
+.span3 {
+  white-space: pre-wrap;
+}
+.span4 {
+  color: var(--color-gray-100);
+}
+.div23 {
+  position: absolute;
+  top: 216px;
+  left: 237px;
+  font-size: 128px;
+  color: var(--color-white);
+}
+.desktop-1-child {
+  position: absolute;
+  top: 186px;
+  left: 646px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-krona-one);
+}

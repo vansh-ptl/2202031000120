@@ -1,0 +1,171 @@
+.first-section-icon,
+.header-child1 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.first-section-icon {
+  top: 0;
+  height: 952px;
+  overflow: hidden;
+}
+.header-child1 {
+  top: 17px;
+  background-color: var(--color-gray-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 76px;
+}
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 32.9%;
+  width: 2.15%;
+  top: 17.96%;
+  right: 6.32%;
+  bottom: 49.14%;
+  left: 91.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  height: 48.71%;
+  top: 7.31%;
+  right: 10.69%;
+  bottom: 43.98%;
+  left: 87.15%;
+}
+.user-profile-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 1368px;
+  width: 47px;
+  height: 44px;
+  object-fit: cover;
+}
+.leak-lounge5 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.header-child2,
+.leak-lounge4 {
+  position: absolute;
+  top: 12px;
+  left: 104px;
+}
+.header-child2 {
+  top: 0;
+  left: 14px;
+  width: 61px;
+  height: 89px;
+  object-fit: cover;
+}
+.search-bar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 636px;
+  height: 67px;
+}
+.union-icon2 {
+  position: relative;
+  width: 27.6px;
+  height: 25.4px;
+}
+.charulota3 {
+  position: absolute;
+  top: 23px;
+  left: 71px;
+  font-weight: 500;
+  display: inline-block;
+  width: 148.7px;
+  height: 31px;
+}
+.search-bar1 {
+  position: absolute;
+  top: 3px;
+  left: 429px;
+  width: 636px;
+  height: 67px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-silver);
+  font-family: var(--font-poppins);
+}
+.header1 {
+  position: absolute;
+  top: 15px;
+  left: 1px;
+  width: 1440px;
+  height: 93px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-krona-one);
+}
+.user-profile-child,
+.user-profile-item {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.user-profile-child {
+  top: 131px;
+  left: 1300px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.user-profile-item {
+  top: -8px;
+  left: 1346px;
+  overflow: hidden;
+}
+.address-xyz388852,
+.email-vpgmailcom,
+.name-vansh-patel,
+.number-1111111111 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 251px;
+  height: 52px;
+}
+.address-xyz388852,
+.email-vpgmailcom,
+.number-1111111111 {
+  top: 57px;
+  width: 246px;
+}
+.address-xyz388852,
+.email-vpgmailcom {
+  top: 108px;
+  width: 285px;
+}
+.address-xyz388852 {
+  top: 166px;
+}
+.name-vansh-patel-parent {
+  position: absolute;
+  top: 310px;
+  left: 1148px;
+  width: 285px;
+  height: 218px;
+}
+.change-pfofile {
+  position: absolute;
+  top: 240px;
+  left: 1231px;
+}
+.user-profile {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  height: 1004px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-pompiere);
+}
